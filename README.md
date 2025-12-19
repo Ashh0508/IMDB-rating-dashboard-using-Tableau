@@ -42,7 +42,7 @@ The goal of this project is to practice **data visualization**, **storytelling**
 
 ## 🗂 Dataset Details
 
-- **Source:** IMDb Dataset (Kaggle / Public IMDb data)
+- **Source:** IMDb Dataset (Kaggle: https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows/data)
 - **File Format:** CSV
 - **Key Columns:**
   - Movie Title
